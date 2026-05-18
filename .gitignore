@@ -1,5 +1,6 @@
 # This file is part of harbour-parkingchaos.
-# SPDX-FileCopyrightText: 2020-2022 Mirian Margiani
+# SPDX-FileCopyrightText: 2026 Smooth-E
+# SPDX-FileCopyrightText: 2020-2026 Mirian Margiani
 # SPDX-License-Identifier: GPL-3.0-or-later
 
 build*
@@ -71,6 +72,7 @@ compile_commands.json
 *creator.user*
 
 *_qmlcache.qrc
+dist/packages
 
 # WSL metadata for files
 *:Zone.Identifier

@@ -49,8 +49,10 @@ SPDX-License-Identifier: GFDL-1.3-or-later
 
 ## License
 
+Этот проект - софт-форк игры [Parking Chaos для Sailfish OS](https://codeberg.org/ichthyosaurus/harbour-parkingchaos). Изменения из астрим-репозитория переодически синхронизируются. Порт основан на ревизии апстрим-репозитория из ветки [main](https://github.com/Smooth-E/aurora-parkingchaos/tree/main).
+
 - Copyright (C) 2026 Smooth-E
-- Copyright (C) 2020-2025 Mirian Margiani
+- Copyright (C) 2020-2026 Mirian Margiani
 
 Parking Chaos - свободное программное обеспечение, которое распространяется под лицензией 
 [GNU General Public License v3 (or later)](https://spdx.org/licenses/GPL-3.0-or-later.html).

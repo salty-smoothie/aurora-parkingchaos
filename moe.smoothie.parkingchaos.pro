@@ -40,9 +40,9 @@ AURORAAPP_ICONS = 86x86 108x108 128x128 172x172
 CONFIG += auroraapp_i18n
 TRANSLATIONS += translations/moe.smoothie.parkingchaos-*.ts
 
-QML_IMPORT_PATH += qml/modules
-
 # Note: version number is configured in yaml
 DEFINES += APP_VERSION=\\\"$$VERSION\\\"
 DEFINES += APP_RELEASE=\\\"$$RELEASE\\\"
 include(libs/opal-cached-defines.pri)
+
+include(libs/opal.pri)

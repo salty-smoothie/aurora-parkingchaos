@@ -241,8 +241,8 @@
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="30"/>
-        <source>Develop on Github</source>
-        <translation>Разрабатывать на Github</translation>
+        <source>Develop on %1</source>
+        <translation>Разрабатывать на %1</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="31"/>

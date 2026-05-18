@@ -1,7 +1,7 @@
 /*
  * This file is part of harbour-parkingchaos.
- * SPDX-FileCopyrightText: 2022-2023 Mirian Margiani
  * SPDX-FileCopyrightText: 2026 Smooth-E
+ * SPDX-FileCopyrightText: 2022-2026 Mirian Margiani
  * SPDX-License-Identifier: GPL-3.0-or-later
  */
 
@@ -57,7 +57,6 @@ A.AboutPageBase {
                       'up and down.')
 
     mainAttributions: [ "2026 Smooth-E", "2020-%1 Mirian Margiani".arg((new Date()).getFullYear()) ]
-    autoAddOpalAttributions: true
 
     attributions: [
         A.Attribution {
