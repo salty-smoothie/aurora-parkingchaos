@@ -10,6 +10,14 @@ import "modules/Opal/About"
 
 ChangelogList {
     ChangelogItem {
+        version: "1.3.0.2-1"
+        date: "2026-05-19"
+        paragraphs: [
+            "- Обновлены модули Opal<br>" +
+            "- Внутренние оптимизации и улучшения"
+        ]
+    }
+    ChangelogItem {
         version: "1.3.0.1-1"
         date: "2026-03-15"
         paragraphs: [
