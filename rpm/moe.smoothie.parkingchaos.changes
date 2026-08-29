@@ -10,6 +10,10 @@
 # * date Author's Name <author's email> version-release
 # - Summary of changes
 
+* Sat Aug 29 2026 Smooth-E <smoothie@disroot.org> 1.3.0.3-1
+- Изменены ссылки на исходный код приложения
+- Изменено описание пакета
+
 * Tue May 19 2026 Smooth-E <smoothie@disroot.org> 1.3.0.2-1
 - Обновлены модули Opal
 - Внутренние оптимизации и улучшения

@@ -19,11 +19,11 @@ SPDX-License-Identifier: GFDL-1.3-or-later
 
 | Ссылки для скачивания |
 | --- |
-| 📦 [RuStore для ОС Аврора](https://www.rustore.ru/osaurora) <br> 🛒 [Аврора Маркет](https://aurorarepos.ru/aurora-5/parking-chaos) <br> 😼 [Скачать RPM](https://github.com/Smooth-E/aurora-parkingchaos/releases/latest/) |
+| 📦 [RuStore для ОС Аврора](https://www.rustore.ru/osaurora) <br> 🛒 [Аврора Маркет](https://aurorarepos.ru/aurora-5/parking-chaos) <br> 😼 [Скачать RPM](https://github.com/salty-smoothie/aurora-parkingchaos/releases/latest/) |
 
 ## Поддержать проект
 
-Если у вас есть какие-то вопросы, предложения или вы столкнулись с проблемой при использовании приложения на ОС Аврора, пожалуйста, оставляйте свои комментарии в [трекере GitHub Issues этого репозитория](https://github.com/Smooth-E/aurora-parkingchaos/issues).
+Если у вас есть какие-то вопросы, предложения или вы столкнулись с проблемой при использовании приложения на ОС Аврора, пожалуйста, оставляйте свои комментарии в [трекере GitHub Issues этого репозитория](https://github.com/salty-smoothie/aurora-parkingchaos/issues).
 
 ## Сборка и предложение изменений
 
@@ -33,7 +33,7 @@ SPDX-License-Identifier: GFDL-1.3-or-later
 
 1. Клонируйте этот репозиторий
    ```sh
-   git clone https://github.com/Smooth-E/aurora-parkingchaos
+   git clone https://github.com/salty-smoothie/aurora-parkingchaos
    ```
 2. Далее соберите RPM-пакет и запустите приложение на устройстве стандартным способом.
 
@@ -47,15 +47,19 @@ SPDX-License-Identifier: GFDL-1.3-or-later
 
 Конечно же, мы будем очень рады, если вы поможете проекту, предложив свои правки или улучшения. Прочтите секцию выше, чтобы узнать больше ✨
 
-## License
+## Лицензирование
 
-Этот проект - софт-форк игры [Parking Chaos для Sailfish OS](https://codeberg.org/ichthyosaurus/harbour-parkingchaos). Изменения из астрим-репозитория переодически синхронизируются. Порт основан на ревизии апстрим-репозитория из ветки [main](https://github.com/Smooth-E/aurora-parkingchaos/tree/main).
+Этот проект - софт-форк игры [Parking Chaos для Sailfish OS](https://codeberg.org/ichthyosaurus/harbour-parkingchaos). Изменения из астрим-репозитория переодически синхронизируются. Порт основан на ревизии апстрим-репозитория из ветки [main](https://github.com/salty-smoothie/aurora-parkingchaos/tree/main).
 
 - Copyright (C) 2026 Smooth-E
 - Copyright (C) 2020-2026 Mirian Margiani
 
 Parking Chaos - свободное программное обеспечение, которое распространяется под лицензией 
 [GNU General Public License v3 (or later)](https://spdx.org/licenses/GPL-3.0-or-later.html).
-Исходный код доступен [на Github](https://github.com/Smooth-E/aurora-parkingchaos).
+Исходный код доступен [на Github](https://github.com/salty-smoothie/aurora-parkingchaos).
 Вся сопутствующая документация распространяется под лицензией 
 [GNU Free Documentation License v1.3 (or later)](https://spdx.org/licenses/GFDL-1.3-or-later.html).
+
+- Фото ["Two brown elephants on brown soil"](https://unsplash.com/photos/two-brown-elephants-on-brown-soil-during-daytime-ybPRyOfroZA) было использовано при создании скриншотов и баннера.
+
+Материалы в этом репозитории запрещено использовать в разработке технологий ИИ и LLM.

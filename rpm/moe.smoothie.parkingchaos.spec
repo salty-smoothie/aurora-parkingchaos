@@ -9,12 +9,14 @@ Name:       moe.smoothie.parkingchaos
 # << macros
 %define __provides_exclude_from ^%{_datadir}/.*$
 
-Summary:    Переполох на вашей парковке!
-Version:    1.3.0.2
+%define _buildhost Aurora Build Engine
+
+Summary:    Parking Chaos
+Version:    1.3.0.3
 Release:    1
 Group:      Amusements/Games
 License:    GPL-3.0-or-later
-URL:        https://github.com/smooth-e/aurora-parkingchaos
+URL:        https://github.com/salty-smoothie/aurora-parkingchaos
 Source0:    %{name}-%{version}.tar.bz2
 Requires:   sailfishsilica-qt5 >= 0.10.9
 BuildRequires:  pkgconfig(auroraapp) >= 1.0.2
@@ -24,6 +26,7 @@ BuildRequires:  pkgconfig(Qt5Quick)
 BuildRequires:  desktop-file-utils
 
 %description
+Переполох на вашей парковке!
 Parking Chaos - клон игры “Час пик” или “Пробки”, созданный с нуля на основе ParkMeeCrazy.
 Переместите красный трактор к выходу справа, передвигая других с дороги.
 Горизонтальные машины могут двигаться только влево и право, вертикальные-только вверх и вниз.
